@@ -1,6 +1,9 @@
 # poke_api_rc
 
-A new Flutter project.
+Autores:
+  -Alex Cardenas
+  -Miguel Carvajal
+  -Lenin Gómez
 
 ## Getting Started
 
